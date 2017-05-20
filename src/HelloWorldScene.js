@@ -1,3 +1,4 @@
+var res = require('./resource.js');
 
 var HelloWorldLayer = cc.Layer.extend({
     sprite:null,

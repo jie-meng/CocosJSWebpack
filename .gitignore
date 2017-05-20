@@ -45,6 +45,10 @@ gdb.setup
 *.ilk
 *.pdb
 
+#webpack
+/src/bundle.js
+/src/vendor.js
+
 # dirs
 [Dd]bug/
 [Rr]elease/
