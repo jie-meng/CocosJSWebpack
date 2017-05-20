@@ -12,7 +12,7 @@
     "modules" : ["cocos2d"],
 
     "jsList" : [
-        "src/resource.js",
-        "src/app.js"
+        "src/vendor.js",
+        "src/bundle.js"
     ]
 }
