@@ -5,6 +5,9 @@
   "repository": "https://github.com/joshua-meng/CocosJSWebpack.git",
   "author": "Jie Meng <jiemeng@thoughtworks.com>",
   "license": "MIT",
+  "scripts": {
+      "start": "webpack && cocos run -p web"
+  },
   "dependencies": {
     "lodash": "^4.17.4"
   },
