@@ -49,6 +49,7 @@ gdb.setup
 [Dd]bug/
 [Rr]elease/
 publish/
+/node_modules/
 frameworks/cocos2d-x/tools/simulator/libsimulator/proj.ios_mac/build/
 
 # project files
