@@ -43,3 +43,4 @@ var HelloWorldScene = cc.Scene.extend({
     }
 });
 
+module.exports = HelloWorldScene;
