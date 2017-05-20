@@ -1,4 +1,4 @@
-var res = require('./resource.js');
+import res from './resource';
 
 var HelloWorldLayer = cc.Layer.extend({
     sprite:null,
@@ -44,4 +44,5 @@ var HelloWorldScene = cc.Scene.extend({
     }
 });
 
-module.exports = HelloWorldScene;
+// module.exports = HelloWorldScene;
+export default HelloWorldScene;

@@ -1,5 +1,3 @@
-var res = {
+export default {
     HelloWorld_png : "res/HelloWorld.png",
 };
-
-module.exports = res;
