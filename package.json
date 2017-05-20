@@ -1,0 +1,15 @@
+{
+  "name": "CocosJSWebpack",
+  "version": "1.0.0",
+  "main": "main.js",
+  "repository": "https://github.com/joshua-meng/CocosJSWebpack.git",
+  "author": "Jie Meng <jiemeng@thoughtworks.com>",
+  "license": "MIT",
+  "dependencies": {
+    "lodash": "^4.17.4"
+  },
+  "devDependencies": {
+    "webpack": "^2.5.1",
+    "webpack-dev-server": "^2.4.5"
+  }
+}
