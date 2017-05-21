@@ -1,5 +1,5 @@
 import res from './resource';
-import Calculation from './utils/Calculation';
+import Calculation from 'utils/Calculation';
 
 var HelloWorldLayer = cc.Layer.extend({
     sprite:null,
@@ -18,7 +18,7 @@ var HelloWorldLayer = cc.Layer.extend({
         // 3. add your codes below...
         // add a label shows "Hello World"
         // create and initialize a label
-        var helloLabel = new cc.LabelTTF("Hello World " + Calculation.add(3, 4), "Arial", 38);
+        var helloLabel = new cc.LabelTTF("Hello World " + Calculation.multiple(3, 4), "Arial", 38);
         // position the label on the center of the screen
         helloLabel.x = size.width / 2;
         helloLabel.y = size.height / 2 + 200;

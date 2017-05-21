@@ -45,6 +45,9 @@ gdb.setup
 *.ilk
 *.pdb
 
+#lunar
+/cocos_api_tb
+
 #webpack
 /src/bundle.js
 /src/vendor.js
