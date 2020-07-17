@@ -9,7 +9,7 @@
       "start": "webpack && cocos run -p web"
   },
   "dependencies": {
-    "lodash": "^4.17.4"
+    "lodash": "^4.17.19"
   },
   "devDependencies": {
     "webpack": "^2.5.1",
